@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Brackeys 2D plat1.unity
+  isLoaded: 1
+  isActive: 1

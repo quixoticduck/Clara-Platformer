@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: efbdfa1590672724ea6db2681e8c0b9d
+timeCreated: 1470781220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characterHead
+    21300002: characterHandRight
+    21300004: characterBody
+    21300006: characterHandLeft
+    21300008: characterFootRight
+    21300010: characterFootLeft
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: characterHead
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 200
+        width: 266
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5676191, y: 0.040716656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115.01332, y: 101.18729}
+        - {x: 105.01332, y: 140.18729}
+        - {x: 82.01332, y: 185.18729}
+        - {x: 37.01332, y: 221.18729}
+        - {x: 11.013321, y: 228.18729}
+        - {x: 0.013320923, y: 231.18729}
+        - {x: -75.98668, y: 231.18729}
+        - {x: -102.98668, y: 214.18729}
+        - {x: -138.98668, y: 166.18729}
+        - {x: -144.98668, y: 157.18729}
+        - {x: -150.98668, y: 146.18729}
+        - {x: -150.98668, y: 97.18729}
+        - {x: -129.98668, y: 69.18729}
+        - {x: -121.98668, y: 22.187286}
+        - {x: -58.98668, y: -9.812714}
+        - {x: 19.01332, y: -9.812714}
+        - {x: 27.01332, y: -8.812714}
+        - {x: 99.01332, y: 22.187286}
+        - {x: 115.01332, y: 50.187286}
+    - name: characterHandRight
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 130
+        width: 60
+        height: 48
+      alignment: 9
+      pivot: {x: 0.84508514, y: 0.34914526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.70511, y: -13.758972}
+        - {x: -33.70511, y: -16.758972}
+        - {x: 7.2948914, y: -16.758972}
+        - {x: 9.294891, y: -15.758972}
+        - {x: 9.294891, y: 26.241028}
+        - {x: 7.2948914, y: 31.241028}
+        - {x: -50.70511, y: 31.241028}
+        - {x: -50.70511, y: -7.758972}
+    - name: characterBody
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 76
+        width: 160
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5472535, y: 0.44863424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.560562, y: 62.855698}
+        - {x: -87.56056, y: 19.855698}
+        - {x: -87.56056, y: -50.144302}
+        - {x: -76.56056, y: -51.144302}
+        - {x: 72.43944, y: -51.144302}
+        - {x: 72.43944, y: 30.855698}
+        - {x: 46.439438, y: 62.855698}
+    - name: characterHandLeft
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 137
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.20700304, y: 0.6631459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.971161, y: 14.484726}
+        - {x: -10.971161, y: 13.484726}
+        - {x: -10.971161, y: -24.515274}
+        - {x: -6.971161, y: -28.515274}
+        - {x: 42.02884, y: -28.515274}
+        - {x: 42.02884, y: 7.484726}
+        - {x: 40.02884, y: 14.484726}
+    - name: characterFootRight
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 75
+        height: 40
+      alignment: 9
+      pivot: {x: 0.85567766, y: 0.48373365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.175827, y: 20.650654}
+        - {x: -64.17583, y: 14.650654}
+        - {x: -64.17583, y: -11.349346}
+        - {x: -54.175827, y: -19.349346}
+        - {x: 10.824173, y: -19.349346}
+        - {x: 10.824173, y: 6.650654}
+        - {x: -4.175827, y: 20.650654}
+    - name: characterFootLeft
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 12
+        width: 73
+        height: 41
+      alignment: 9
+      pivot: {x: 0.17022851, y: 0.56347626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.42668152, y: 17.897472}
+        - {x: -10.4266815, y: 13.897472}
+        - {x: -12.4266815, y: 8.897472}
+        - {x: -12.4266815, y: -14.102528}
+        - {x: 4.5733185, y: -23.102528}
+        - {x: 54.57332, y: -23.102528}
+        - {x: 60.57332, y: -19.102528}
+        - {x: 60.57332, y: 5.8974724}
+        - {x: 54.57332, y: 17.897472}
+    outline: []
+  spritePackingTag: character
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
